@@ -1,0 +1,34 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\UnityWorkspace\Dungeon Crawler\Builds\Dungeon Crawler Windows\Dungeon_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\UnityWorkspace\Dungeon Crawler\Builds\Dungeon Crawler Windows\Dungeon_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\UnityWorkspace\Dungeon Crawler\Builds\Dungeon Crawler Windows\Dungeon_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\UnityWorkspace\Dungeon Crawler\Builds\Dungeon Crawler Windows\Dungeon_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\UnityWorkspace\Dungeon Crawler\Builds\Dungeon Crawler Windows\Dungeon_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\UnityWorkspace\Dungeon Crawler\Builds\Dungeon Crawler Windows\Dungeon_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\UnityWorkspace\Dungeon Crawler\Builds\Dungeon Crawler Windows\Dungeon_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading E:\UnityWorkspace\Dungeon Crawler\Builds\Dungeon Crawler Windows\Dungeon_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: E:\UnityWorkspace\Dungeon Crawler\Builds\Dungeon Crawler Windows\Dungeon_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\UnityWorkspace\Dungeon Crawler\Builds\Dungeon Crawler Windows\Dungeon_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.036 seconds
+desktop: 1920x1080 59Hz; virtual: 5120x1200 at 0,-120
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\UnityWorkspace\Dungeon Crawler\Builds\Dungeon Crawler Windows\Dungeon_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\UnityWorkspace\Dungeon Crawler\Builds\Dungeon Crawler Windows\Dungeon_Data\Managed\System.dll (this message is harmless)
+Map built
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MapGenerator:BuildMap() (at E:\UnityWorkspace\Dungeon Crawler\Assets\Scripts\MapGenerator.cs:48)
+GenerationController:Start() (at E:\UnityWorkspace\Dungeon Crawler\Assets\Scripts\GenerationController.cs:14)
+ 
+(Filename: E:/UnityWorkspace/Dungeon Crawler/Assets/Scripts/MapGenerator.cs Line: 48)
+
+Platform assembly: E:\UnityWorkspace\Dungeon Crawler\Builds\Dungeon Crawler Windows\Dungeon_Data\Managed\Boo.Lang.dll (this message is harmless)
